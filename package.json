@@ -1,0 +1,22 @@
+{
+  "name": "knock-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunrain990/knock-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunrain990/knock-typescript/issues"
+  },
+  "homepage": "https://github.com/sunrain990/knock-typescript#readme"
+}
